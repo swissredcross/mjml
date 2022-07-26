@@ -1,6 +1,7 @@
 {
   "name": "mjml-master",
   "private": true,
+  "version": "4.13.1",
   "scripts": {
     "build:watch": "lerna run build --parallel -- -- -w",
     "build": "lerna run build --parallel --ignore mjml-browser",
@@ -9,6 +10,9 @@
     "lint:fix": "eslint . --fix",
     "postinstall": "lerna bootstrap",
     "prettier": "prettier --write \"packages/**/{src,bin}/**/*.?(js|json)\""
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com@mjml"
   },
   "workspaces": [
     "packages/*"
