@@ -1,7 +1,7 @@
 {
   "name": "mjml",
   "description": "MJML: the only framework that makes responsive-email easy",
-  "version": "4.13.1-4.13.1-alpha.0.11",
+  "version": "4.13.1-y.0",
   "main": "lib/index.js",
   "bin": {
     "mjml": "bin/mjml"
@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/mjmlio/mjml/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com@swissredcross"
+  },
   "homepage": "https://mjml.io",
   "scripts": {
     "clean": "rimraf lib",
@@ -27,11 +30,11 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.14.6",
-    "mjml-cli": "4.13.1-4.13.1-alpha.0.11",
-    "mjml-core": "4.13.1-4.13.1-alpha.0.11",
-    "mjml-migrate": "4.13.1-4.13.1-alpha.0.11",
-    "mjml-preset-core": "4.13.1-4.13.1-alpha.0.11",
-    "mjml-validator": "4.13.1-4.13.1-alpha.0.11"
+    "mjml-cli": "4.13.1-y.0",
+    "mjml-core": "4.13.1-y.0",
+    "mjml-migrate": "4.13.1-y.0",
+    "mjml-preset-core": "4.13.1-y.0",
+    "mjml-validator": "4.13.1-y.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",

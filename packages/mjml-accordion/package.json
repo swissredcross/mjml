@@ -1,7 +1,7 @@
 {
   "name": "mjml-accordion",
   "description": "mjml-accordion",
-  "version": "4.13.1-4.13.1-alpha.0.11",
+  "version": "4.13.1-y.0",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -16,6 +16,9 @@
     "url": "https://github.com/mjmlio/mjml/issues"
   },
   "homepage": "https://mjml.io",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com@swissredcross"
+  },
   "scripts": {
     "clean": "rimraf lib",
     "build": "babel src --out-dir lib --root-mode upward"
@@ -23,7 +26,7 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.1-4.13.1-alpha.0.11"
+    "mjml-core": "4.13.1-y.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",

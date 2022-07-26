@@ -1,7 +1,7 @@
 {
   "name": "mjml-parser-xml",
   "description": "mjml-parser-xml",
-  "version": "4.13.1-4.13.1-alpha.0.11",
+  "version": "4.13.1-y.0",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -16,6 +16,9 @@
     "url": "https://github.com/mjmlio/mjml/issues"
   },
   "homepage": "https://mjml.io",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com@swissredcross"
+  },
   "scripts": {
     "clean": "rimraf lib",
     "build": "babel src --out-dir lib --root-mode upward",
@@ -30,8 +33,8 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "chai": "^4.1.1",
-    "mjml": "4.13.1-4.13.1-alpha.0.11",
-    "mjml-core": "4.13.1-4.13.1-alpha.0.11",
+    "mjml": "4.13.1-y.0",
+    "mjml-core": "4.13.1-y.0",
     "rimraf": "^3.0.2"
   },
   "gitHead": "d40137bbba20db614aafd9773c4ec7d140e75507"
