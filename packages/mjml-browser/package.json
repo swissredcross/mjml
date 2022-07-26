@@ -1,7 +1,7 @@
 {
   "name": "mjml-browser",
   "description": "MJML: the only framework that makes responsive-email easy",
-  "version": "4.13.1-y.4",
+  "version": "4.13.1-y.5",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://mjml.io",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com@swissredcross"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "clean": "rimraf lib",

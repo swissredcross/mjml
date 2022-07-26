@@ -1,7 +1,7 @@
 {
   "name": "mjml-preset-core",
   "description": "mjml-preset-core",
-  "version": "4.13.1-y.4",
+  "version": "4.13.1-y.5",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://mjml.io",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com@swissredcross"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "clean": "rimraf lib",
@@ -25,35 +25,35 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.14.6",
-    "mjml-accordion": "4.13.1-y.4",
-    "mjml-body": "4.13.1-y.4",
-    "mjml-button": "4.13.1-y.4",
-    "mjml-carousel": "4.13.1-y.4",
-    "mjml-column": "4.13.1-y.4",
-    "mjml-divider": "4.13.1-y.4",
-    "mjml-group": "4.13.1-y.4",
-    "mjml-head": "4.13.1-y.4",
-    "mjml-head-attributes": "4.13.1-y.4",
-    "mjml-head-breakpoint": "4.13.1-y.4",
-    "mjml-head-font": "4.13.1-y.4",
-    "mjml-head-html-attributes": "4.13.1-y.4",
-    "mjml-head-preview": "4.13.1-y.4",
-    "mjml-head-style": "4.13.1-y.4",
-    "mjml-head-title": "4.13.1-y.4",
-    "mjml-hero": "4.13.1-y.4",
-    "mjml-image": "4.13.1-y.4",
-    "mjml-navbar": "4.13.1-y.4",
-    "mjml-raw": "4.13.1-y.4",
-    "mjml-section": "4.13.1-y.4",
-    "mjml-social": "4.13.1-y.4",
-    "mjml-spacer": "4.13.1-y.4",
-    "mjml-table": "4.13.1-y.4",
-    "mjml-text": "4.13.1-y.4",
-    "mjml-wrapper": "4.13.1-y.4"
+    "mjml-accordion": "4.13.1-y.5",
+    "mjml-body": "4.13.1-y.5",
+    "mjml-button": "4.13.1-y.5",
+    "mjml-carousel": "4.13.1-y.5",
+    "mjml-column": "4.13.1-y.5",
+    "mjml-divider": "4.13.1-y.5",
+    "mjml-group": "4.13.1-y.5",
+    "mjml-head": "4.13.1-y.5",
+    "mjml-head-attributes": "4.13.1-y.5",
+    "mjml-head-breakpoint": "4.13.1-y.5",
+    "mjml-head-font": "4.13.1-y.5",
+    "mjml-head-html-attributes": "4.13.1-y.5",
+    "mjml-head-preview": "4.13.1-y.5",
+    "mjml-head-style": "4.13.1-y.5",
+    "mjml-head-title": "4.13.1-y.5",
+    "mjml-hero": "4.13.1-y.5",
+    "mjml-image": "4.13.1-y.5",
+    "mjml-navbar": "4.13.1-y.5",
+    "mjml-raw": "4.13.1-y.5",
+    "mjml-section": "4.13.1-y.5",
+    "mjml-social": "4.13.1-y.5",
+    "mjml-spacer": "4.13.1-y.5",
+    "mjml-table": "4.13.1-y.5",
+    "mjml-text": "4.13.1-y.5",
+    "mjml-wrapper": "4.13.1-y.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "81a62f3763bf7e819516816e4b363cfd71d66fcf"
+  "gitHead": "f55051dfbe84e491bd36542c9c839064eeeb0b00"
 }
