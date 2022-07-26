@@ -1,7 +1,7 @@
 {
   "name": "mjml-text",
   "description": "mjml-text",
-  "version": "4.13.1-4.13.1-alpha.0.8",
+  "version": "4.13.1-4.13.1-alpha.0.9",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -23,11 +23,11 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.1-4.13.1-alpha.0.8"
+    "mjml-core": "4.13.1-4.13.1-alpha.0.9"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "b41b46ea7704eb2e35d2d932beeeec978c34d334"
+  "gitHead": "647b310d8ade365c3d466b79601cdcb4f75c0228"
 }
