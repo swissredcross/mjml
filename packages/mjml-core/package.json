@@ -1,7 +1,7 @@
 {
   "name": "mjml-core",
   "description": "mjml-core",
-  "version": "4.13.1-4.13.1-alpha.0.6",
+  "version": "4.13.1-4.13.1-alpha.0.7",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -29,14 +29,14 @@
     "js-beautify": "^1.6.14",
     "juice": "^7.0.0",
     "lodash": "^4.17.21",
-    "mjml-migrate": "4.13.1-4.13.1-alpha.0.6",
-    "mjml-parser-xml": "4.13.1-4.13.1-alpha.0.6",
-    "mjml-validator": "4.13.1-4.13.1-alpha.0.6"
+    "mjml-migrate": "4.13.1-4.13.1-alpha.0.7",
+    "mjml-parser-xml": "4.13.1-4.13.1-alpha.0.7",
+    "mjml-validator": "4.13.1-4.13.1-alpha.0.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "chai": "^4.1.1",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "b359c17e71a2e92d248c31f1be7b369fb4461515"
+  "gitHead": "91be5df6c82878c54977bd6920e7d1d81dbffa6b"
 }
