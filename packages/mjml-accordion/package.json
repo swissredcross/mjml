@@ -1,14 +1,14 @@
 {
   "name": "mjml-accordion",
   "description": "mjml-accordion",
-  "version": "4.13.1-y.1",
+  "version": "4.13.1-y.2",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjmlio/mjml.git",
+    "url": "git+https://github.com/swissredcross/mjml.git",
     "directory": "packages/mjml-accordion"
   },
   "license": "MIT",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://mjml.io",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com@swissredcross"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "clean": "rimraf lib",
@@ -26,11 +26,11 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.1-y.1"
+    "mjml-core": "4.13.1-y.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "d40137bbba20db614aafd9773c4ec7d140e75507"
+  "gitHead": "3843cc7532f8289f848ed7d9c1ea3363501c767f"
 }
