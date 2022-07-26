@@ -1,7 +1,7 @@
 {
   "name": "mjml-core",
   "description": "mjml-core",
-  "version": "4.13.1-y.2",
+  "version": "4.13.1-y.3",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://mjml.io",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com@swissredcross"
   },
   "scripts": {
     "clean": "rimraf lib",
@@ -32,14 +32,14 @@
     "js-beautify": "^1.6.14",
     "juice": "^7.0.0",
     "lodash": "^4.17.21",
-    "mjml-migrate": "4.13.1-y.2",
-    "mjml-parser-xml": "4.13.1-y.2",
-    "mjml-validator": "4.13.1-y.2"
+    "mjml-migrate": "4.13.1-y.3",
+    "mjml-parser-xml": "4.13.1-y.3",
+    "mjml-validator": "4.13.1-y.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "chai": "^4.1.1",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "3843cc7532f8289f848ed7d9c1ea3363501c767f"
+  "gitHead": "0306ef664719cb4c21e0c86a9a524f863dd28184"
 }
