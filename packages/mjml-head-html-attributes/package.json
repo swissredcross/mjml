@@ -1,7 +1,7 @@
 {
   "name": "mjml-head-html-attributes",
   "description": "mjml-head-html-attributes",
-  "version": "4.13.2-y.2",
+  "version": "4.13.2-y.3",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -26,11 +26,11 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.2-y.2"
+    "mjml-core": "4.13.2-y.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "837f0f073a5650a5aa9615a4984dd8384c1c35eb"
+  "gitHead": "c2cd6f987a16727e17bf795ea71fadaa41ba2557"
 }

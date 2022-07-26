@@ -4,11 +4,10 @@
   ],
   "command": {
     "publish": {
-      "exact": true,
-      "registry": "https://npm.pkg.github.com"
+      "exact": true
     }
   },
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "4.13.2-y.2"
+  "version": "4.13.2-y.3"
 }
