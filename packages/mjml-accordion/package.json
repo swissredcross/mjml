@@ -1,7 +1,7 @@
 {
   "name": "mjml-accordion",
   "description": "mjml-accordion",
-  "version": "4.13.1-y.5",
+  "version": "4.13.1-y.1",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -26,11 +26,11 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.1-y.5"
+    "mjml-core": "4.13.1-y.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "f55051dfbe84e491bd36542c9c839064eeeb0b00"
+  "gitHead": "6bca3d1100f6f9e4a136751fe31c632c7f34ebb6"
 }

@@ -5,10 +5,10 @@
   "command": {
     "publish": {
       "exact": true,
-      "registry": "https://npm.pkg.github.com"
+      "registry": "https://npm.pkg.github.com@swissredcross/mjml"
     }
   },
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "4.13.1-y.5"
+  "version": "4.13.1-y.1"
 }
