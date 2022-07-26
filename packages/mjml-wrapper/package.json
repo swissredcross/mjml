@@ -1,7 +1,7 @@
 {
   "name": "mjml-wrapper",
   "description": "mjml-wrapper",
-  "version": "4.13.1-4.13.1-alpha.0.10",
+  "version": "4.13.1-4.13.1-alpha.0.11",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -23,12 +23,12 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "lodash": "^4.17.21",
-    "mjml-core": "4.13.1-4.13.1-alpha.0.10",
-    "mjml-section": "4.13.1-4.13.1-alpha.0.10"
+    "mjml-core": "4.13.1-4.13.1-alpha.0.11",
+    "mjml-section": "4.13.1-4.13.1-alpha.0.11"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "f0dd34146cbbe895da01046cf10f1e33cc384981"
+  "gitHead": "d40137bbba20db614aafd9773c4ec7d140e75507"
 }
