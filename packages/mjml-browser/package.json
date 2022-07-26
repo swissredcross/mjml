@@ -1,7 +1,7 @@
 {
   "name": "mjml-browser",
   "description": "MJML: the only framework that makes responsive-email easy",
-  "version": "4.13.1-4.13.1-alpha.0.9",
+  "version": "4.13.1-4.13.1-alpha.0.10",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -34,5 +34,5 @@
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6"
   },
-  "gitHead": "647b310d8ade365c3d466b79601cdcb4f75c0228"
+  "gitHead": "f0dd34146cbbe895da01046cf10f1e33cc384981"
 }
