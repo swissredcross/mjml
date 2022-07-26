@@ -1,7 +1,7 @@
 {
   "name": "mjml-validator",
   "description": "mjml-validator",
-  "version": "4.13.1-4.13.1-alpha.0.7",
+  "version": "4.13.1-4.13.1-alpha.0.8",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -27,5 +27,5 @@
     "@babel/cli": "^7.8.4",
     "rimraf": "^3.0.2"
   },
-  "gitHead": "91be5df6c82878c54977bd6920e7d1d81dbffa6b"
+  "gitHead": "b41b46ea7704eb2e35d2d932beeeec978c34d334"
 }
